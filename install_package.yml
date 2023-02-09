@@ -1,0 +1,19 @@
+---
+- name: installing packages
+  hosts: all
+  become: true
+  gather_facts: no
+
+  tasks:
+    - name: installing httpd
+      yum:
+        name: httpd
+        state: installed
+    - name: starting httpd services
+      service:
+        name: httpd
+        state: started
+    - name: copying index.html file
+      copy:
+        src: /home/ansadmin/index.html
+        dest: /var/www/html
