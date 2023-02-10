@@ -12,11 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675899593,,"wq"
+|2,0,1675999584,,"wq"
 :q
-|2,0,1675832355,,"q"
+|2,0,1675919449,,"q"
 :q!
-|2,0,1675745872,,"q!"
+|2,0,1675918777,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,232 +27,337 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	    tomcat_package: apache-tomcat-9.0.71
+|3,1,1,1,1,0,1675919118,"    tomcat_package: apache-tomcat-9.0.71"
+"2	LINE	0
+	  d
+|3,0,2,1,1,0,1675919116,"  d"
 
 # File marks:
-'0  11  18  ~/create_files.yml
-|4,48,11,18,1675899593,"~/create_files.yml"
-'1  13  20  ~/create_files.yml
-|4,49,13,20,1675899535,"~/create_files.yml"
-'2  11  51  ~/create_files.yml
-|4,50,11,51,1675899515,"~/create_files.yml"
-'3  13  16  ~/create_files.yml
-|4,51,13,16,1675899515,"~/create_files.yml"
-'4  11  55  ~/create_files.yml
-|4,52,11,55,1675899486,"~/create_files.yml"
-'5  11  55  ~/create_files.yml
-|4,53,11,55,1675899486,"~/create_files.yml"
-'6  13  20  ~/create_files.yml
-|4,54,13,20,1675899486,"~/create_files.yml"
-'7  13  20  ~/create_files.yml
-|4,55,13,20,1675899486,"~/create_files.yml"
-'8  10  25  ~/create_files.yml
-|4,56,10,25,1675899351,"~/create_files.yml"
-'9  10  25  ~/create_files.yml
-|4,57,10,25,1675899351,"~/create_files.yml"
+'0  1  3  ~/.gitignore
+|4,48,1,3,1675999584,"~/.gitignore"
+'1  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,49,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+'2  47  64  ~/tomcat_setup.yml
+|4,50,47,64,1675920432,"~/tomcat_setup.yml"
+'3  47  49  ~/tomcat_setup.yml
+|4,51,47,49,1675920360,"~/tomcat_setup.yml"
+'4  40  0  ~/tomcat_setup.yml
+|4,52,40,0,1675920226,"~/tomcat_setup.yml"
+'5  40  0  ~/tomcat_setup.yml
+|4,53,40,0,1675920226,"~/tomcat_setup.yml"
+'6  40  0  ~/tomcat_setup.yml
+|4,54,40,0,1675920226,"~/tomcat_setup.yml"
+'7  40  0  ~/tomcat_setup.yml
+|4,55,40,0,1675920226,"~/tomcat_setup.yml"
+'8  47  67  ~/tomcat_setup.yml
+|4,56,47,67,1675919971,"~/tomcat_setup.yml"
+'9  47  67  ~/tomcat_setup.yml
+|4,57,47,67,1675919971,"~/tomcat_setup.yml"
 
 # Jumplist (newest first):
--'  11  18  ~/create_files.yml
-|4,39,11,18,1675899593,"~/create_files.yml"
--'  13  20  ~/create_files.yml
-|4,39,13,20,1675899535,"~/create_files.yml"
--'  13  16  ~/create_files.yml
-|4,39,13,16,1675899515,"~/create_files.yml"
--'  13  20  ~/create_files.yml
-|4,39,13,20,1675899486,"~/create_files.yml"
--'  10  25  ~/create_files.yml
-|4,39,10,25,1675899472,"~/create_files.yml"
--'  10  25  ~/create_files.yml
-|4,39,10,25,1675899472,"~/create_files.yml"
--'  10  25  ~/create_files.yml
-|4,39,10,25,1675899472,"~/create_files.yml"
--'  10  25  ~/create_files.yml
-|4,39,10,25,1675899472,"~/create_files.yml"
--'  10  25  ~/create_files.yml
-|4,39,10,25,1675899351,"~/create_files.yml"
--'  12  15  ~/create_files.yml
-|4,39,12,15,1675899331,"~/create_files.yml"
--'  12  15  ~/create_files.yml
-|4,39,12,15,1675899331,"~/create_files.yml"
--'  12  15  ~/create_files.yml
-|4,39,12,15,1675899331,"~/create_files.yml"
--'  12  15  ~/create_files.yml
-|4,39,12,15,1675899331,"~/create_files.yml"
--'  12  15  ~/create_files.yml
-|4,39,12,15,1675899283,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  1  0  ~/create_files.yml
-|4,39,1,0,1675899114,"~/create_files.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  19  26  ~/install_package.yml
-|4,39,19,26,1675834261,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
--'  6  0  ~/install_package.yml
-|4,39,6,0,1675834170,"~/install_package.yml"
+-'  1  3  ~/.gitignore
+|4,39,1,3,1675999584,"~/.gitignore"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  47  64  ~/tomcat_setup.yml
+|4,39,47,64,1675920432,"~/tomcat_setup.yml"
+-'  47  64  ~/tomcat_setup.yml
+|4,39,47,64,1675920432,"~/tomcat_setup.yml"
+-'  47  64  ~/tomcat_setup.yml
+|4,39,47,64,1675920432,"~/tomcat_setup.yml"
+-'  47  64  ~/tomcat_setup.yml
+|4,39,47,64,1675920432,"~/tomcat_setup.yml"
+-'  47  49  ~/tomcat_setup.yml
+|4,39,47,49,1675920360,"~/tomcat_setup.yml"
+-'  47  49  ~/tomcat_setup.yml
+|4,39,47,49,1675920360,"~/tomcat_setup.yml"
+-'  47  49  ~/tomcat_setup.yml
+|4,39,47,49,1675920360,"~/tomcat_setup.yml"
+-'  47  49  ~/tomcat_setup.yml
+|4,39,47,49,1675920360,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920237,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920226,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920226,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920226,"~/tomcat_setup.yml"
+-'  40  0  ~/tomcat_setup.yml
+|4,39,40,0,1675920226,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919977,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919977,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919977,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919977,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919971,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919971,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919971,"~/tomcat_setup.yml"
+-'  47  67  ~/tomcat_setup.yml
+|4,39,47,67,1675919971,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919904,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919449,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919449,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919449,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919449,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919293,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919293,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919293,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919293,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919226,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919226,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919226,"~/tomcat_setup.yml"
+-'  6  11  ~/tomcat_setup.yml
+|4,39,6,11,1675919226,"~/tomcat_setup.yml"
+-'  6  2  ~/tomcat_setup.yml
+|4,39,6,2,1675919122,"~/tomcat_setup.yml"
+-'  6  2  ~/tomcat_setup.yml
+|4,39,6,2,1675919122,"~/tomcat_setup.yml"
+-'  6  2  ~/tomcat_setup.yml
+|4,39,6,2,1675919122,"~/tomcat_setup.yml"
+-'  6  2  ~/tomcat_setup.yml
+|4,39,6,2,1675919122,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  1  2  ~/tomcat_setup.yml
+|4,39,1,2,1675919102,"~/tomcat_setup.yml"
+-'  2  0  ~/tomcat_vars.yml
+|4,39,2,0,1675919100,"~/tomcat_vars.yml"
+-'  2  0  ~/tomcat_vars.yml
+|4,39,2,0,1675919100,"~/tomcat_vars.yml"
+-'  2  0  ~/tomcat_vars.yml
+|4,39,2,0,1675919100,"~/tomcat_vars.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1675999583	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+	*	1675999499	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/tomcat_setup.yml
+	*	1675920431	0
+	"	47	64
+	^	47	65
+	.	47	65
+	+	25	10
+	+	21	0
+	+	24	42
+	+	35	11
+	+	36	11
+	+	35	9
+	+	36	61
+	+	37	34
+	+	34	26
+	+	43	34
+	+	40	26
+	+	36	12
+	+	42	36
+	+	36	36
+	+	47	0
+	+	22	0
+	+	28	0
+	+	34	0
+	+	40	0
+	+	46	0
+	+	47	18
+	+	32	12
+	+	28	18
+	+	47	25
+	+	38	16
+	+	44	16
+	+	47	26
+	+	30	37
+	+	36	8
+	+	42	8
+	+	15	19
+	+	14	20
+	+	15	22
+	+	16	0
+	+	14	16
+	+	47	25
+	+	49	40
+	+	48	0
+	+	49	8
+	+	48	4
+	+	49	5
+	+	47	24
+	+	48	9
+	+	47	18
+	+	9	20
+	+	18	12
+	+	19	0
+	+	8	0
+	+	6	39
+	+	7	20
+	+	17	28
+	+	23	35
+	+	29	36
+	+	35	35
+	+	41	35
+	+	48	37
+	+	6	11
+	+	39	96
+	+	47	68
+	+	44	49
+	+	39	25
+	+	47	70
+	+	39	65
+	+	47	57
+	+	36	43
+	+	39	48
+	+	44	43
+	+	47	49
+	+	39	9
+	+	47	65
+
+> ~/tomcat_vars.yml
+	*	1675919099	0
+	"	2	0
+	^	2	0
+	.	1	92
+	+	1	131
+	+	1	0
+	+	1	92
 
 > ~/create_files.yml
 	*	1675899593	0

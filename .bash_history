@@ -167,3 +167,149 @@ vi index.html
 vim install_package.yml
 ansible-playbook install_package.yml --check
 ansible-playbook install_package.yml
+clear
+l
+ls
+cat install_package.yml 
+clear
+vi create_files.yml
+ansible-playbook create_files.yml 
+vi create_files.yml
+ansible-playbook create_files.yml 
+vi create_files.yml
+ansible-playbook create_files.yml 
+vi create_files.yml
+ansible-playbook create_files.yml 
+vi create_files.yml
+ansible-playbook create_files.yml 
+vi create_files.yml
+ansible-playbook create_files.yml 
+  ls
+git
+sudo yum install git
+sudo yum update
+clear
+git status
+git init
+git add .
+git commit -m "first push"
+git config --global user.email c.shrma31@gmail.com
+git config --global user.name chaitanyasharma31
+git commit -m "first push"
+git push
+git add .
+git commit -m "first push"
+git push
+git remote add git@github.com:chaitanyasharma31/ansibleplaybooks.git
+git push git@github.com:chaitanyasharma31/ansibleplaybooks.git
+git remote add ansibleplaybooks git@github.com:chaitanyasharma31/ansibleplaybooks.git
+git push
+git push main
+git push master
+git login
+git push
+git push --set-upstream ansibleplaybooks main
+git push --set-upstream origin main
+git remote add origin git@github.com:chaitanyasharma31/ansibleplaybooks.git
+git push
+git push -u origin main
+git push -u origin master
+git remote add origin https://github.com/chaitanyasharma31/ansibleplaybooks.git
+git push -u origin master
+git status
+git branch
+git push -u origin master
+git remote add origin git@github.com:chaitanyasharma31/ansibleplaybooks.git
+git push -u origin master
+cat .ssh/id_rsa.pub 
+git push -u origin master
+clear
+vi tomcat_setup.yml
+cat tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+vi tomcat_vars.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+ansible-playbook tomcat_setup.yml
+vi tomcat_setup.yml
+more tomcat_setup.yml 
+   [2~
+cat tomcat_setup.yml 
+clear
+vi tomcat_setup.yml
+cat tomcat_setup.yml 
+q
+clear
+cat > tomcat_setup.yml ---
+- name: playbook to install apache tomcat
+  hosts: all
+  become: true
+  gather_facts: yes
+  vars_files:
+    - tomcat_vars.yml
+  tasks:
+  - name: install java-1.8*
+    yum:
+      name: java
+      state: installed
+  - name: downloading tomcat packages
+    get_url:
+      url: "{{ tomcat_url }}"
+      dest: /opt
+      mode: 0755
+  - name: extracting tomcat packages
+    unarchive:
+      src: /opt/{{ tomcat_package }}.tar.gz
+      dest: /opt
+      remote_src: yes
+  - name: changing permissions
+    file:
+      path: /opt/{{ tomcat_package }}
+      mode: 0755
+      recurse: yes
+  - name: creating startup link file
+    file:
+      src: /opt/{{ tomcat_package }}/bin/{{item.tomcat_script}}
+      dest: /usr/local/bin/{{item.tomcat_command}}
+      state: link
+    loop:
+      - {{ tomcat_script: '/opt/{{ tomcat_package }}/bin/startup.sh', tomcat_command: tomcatup }}
+  - name: creating shutdown link file
+    file:
+      src: /opt/{{ tomcat_package }}/bin/{{item.tomcat_script}}
+      dest: /usr/local/bin/tomcatup
+      state: link
+    loop:
+      - {{ tomcat_script: '/opt/{{ tomcat_package }}/bin/shutdown.sh', tomcat_command: tomcatdown }}
+  - name: starting tomcat service
+    command: nohup ./startup.sh
+    args:
+      chdir: /opt/{{ tomcat_package }}/binclear
+cat > tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
+vi tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
+vi tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
+vi tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
+vi tomcat_setup.yml 
+ansible-playbook tomcat_setup.yml --check
