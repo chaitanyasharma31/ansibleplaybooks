@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676000386,,"wq"
+|2,0,1676000602,,"wq"
 :q
 |2,0,1675919449,,"q"
 :q!
@@ -35,32 +35,40 @@
 |3,0,2,1,1,0,1675919116,"  d"
 
 # File marks:
-'0  4  4  ~/.gitignore
-|4,48,4,4,1676000386,"~/.gitignore"
-'1  1  15  ~/.gitignore
-|4,49,1,15,1676000241,"~/.gitignore"
-'2  2  10  ~/.gitignore
-|4,50,2,10,1676000241,"~/.gitignore"
-'3  1  5  ~/.gitignore
-|4,51,1,5,1675999994,"~/.gitignore"
-'4  1  5  ~/.gitignore
-|4,52,1,5,1675999994,"~/.gitignore"
-'5  1  5  ~/.gitignore
-|4,53,1,5,1675999994,"~/.gitignore"
-'6  1  5  ~/.gitignore
-|4,54,1,5,1675999994,"~/.gitignore"
-'7  1  4  ~/.gitignore
-|4,55,1,4,1675999823,"~/.gitignore"
-'8  1  4  ~/.gitignore
-|4,56,1,4,1675999823,"~/.gitignore"
-'9  1  4  ~/.gitignore
-|4,57,1,4,1675999823,"~/.gitignore"
+'0  5  5  ~/.gitignore
+|4,48,5,5,1676000602,"~/.gitignore"
+'1  4  4  ~/.gitignore
+|4,49,4,4,1676000386,"~/.gitignore"
+'2  4  4  ~/.gitignore
+|4,50,4,4,1676000386,"~/.gitignore"
+'3  1  15  ~/.gitignore
+|4,51,1,15,1676000241,"~/.gitignore"
+'4  2  10  ~/.gitignore
+|4,52,2,10,1676000241,"~/.gitignore"
+'5  1  15  ~/.gitignore
+|4,53,1,15,1676000241,"~/.gitignore"
+'6  2  10  ~/.gitignore
+|4,54,2,10,1676000241,"~/.gitignore"
+'7  1  5  ~/.gitignore
+|4,55,1,5,1675999994,"~/.gitignore"
+'8  1  5  ~/.gitignore
+|4,56,1,5,1675999994,"~/.gitignore"
+'9  1  5  ~/.gitignore
+|4,57,1,5,1675999994,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  5  5  ~/.gitignore
+|4,39,5,5,1676000602,"~/.gitignore"
+-'  4  4  ~/.gitignore
+|4,39,4,4,1676000592,"~/.gitignore"
 -'  4  4  ~/.gitignore
 |4,39,4,4,1676000386,"~/.gitignore"
 -'  1  15  ~/.gitignore
 |4,39,1,15,1676000359,"~/.gitignore"
+-'  1  15  ~/.gitignore
+|4,39,1,15,1676000359,"~/.gitignore"
+-'  2  10  ~/.gitignore
+|4,39,2,10,1676000241,"~/.gitignore"
 -'  2  10  ~/.gitignore
 |4,39,2,10,1676000241,"~/.gitignore"
 -'  1  5  ~/.gitignore
@@ -201,72 +209,65 @@
 |4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
 -'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
 |4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
--'  1  0  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
-|4,39,1,0,1675999471,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
+-'  2  18  ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
+|4,39,2,18,1675999500,"~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1676000385	0
-	"	4	4
-	^	4	5
-	.	4	4
+	*	1676000601	0
+	"	5	5
+	^	5	6
+	.	5	5
 	+	1	5
-	+	4	4
+	+	4	5
+	+	5	5
 
 > ~/.ansible/tmp/ansible-local-3520X7jw9T/tmpyTS1Cp.yml
 	*	1675999499	0
