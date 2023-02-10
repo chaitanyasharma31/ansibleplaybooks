@@ -1,2 +1,4 @@
-/.ssh
-/.gitignore
+id_rsa
+id_rsa.pub
+*.pem
+*.key
